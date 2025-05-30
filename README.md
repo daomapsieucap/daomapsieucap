@@ -4,13 +4,9 @@
 
 ---
 
-💡 *"Sometimes you have to stand alone, just to make sure you still can."*
-
----
-
 ## 🚀 About Me
 
-I'm a passionate backend developer specializing in **WordPress** and **WooCommerce** with over 9 years of experience. I also have hands-on experience with **Shopify**, and enjoy building robust, scalable solutions for clients worldwide. I love clean code, automation, and continuously learning new things.
+I'm a passionate backend developer specializing in **WordPress** and **WooCommerce** with over 9 years of experience. I also have hands-on experience with **Shopify**, and enjoy building robust, scalable solutions for clients.
 
 ---
 
