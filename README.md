@@ -38,5 +38,5 @@ Check out my **pinned repositories** below for some of my featured work!
 
 ## 🌐 Let’s Connect!
 
-- [🌎 Website](https://daochau.com/)
-- [💼 LinkedIn](https://www.linkedin.com/in/dao-chau)
+- 🌎 [Website](https://daochau.com/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/dao-chau)
