@@ -1,3 +1,5 @@
+![View Count](https://komarev.com/ghpvc/?username=daomapsieucap&color=orange&style=for-the-badge)
+
 # 👋 Hi, I'm Dao
 
 **Senior WordPress Developer** | 9+ years of experience
