@@ -86,14 +86,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daomapsieucap&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=daomapsieucap&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
-
-<h3 align="left">🔥   My WordPress Plugins</h3>
-
-###
-
-Check out my **pinned repositories** below for some of my featured work!
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daomapsieucap&repo=fiber-admin&theme=dark)](https://github.com/daomapsieucap/fiber-admin)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daomapsieucap&repo=lipsum-dynamo&theme=dark)](https://github.com/daomapsieucap/lipsum-dynamo)
