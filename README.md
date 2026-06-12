@@ -1,5 +1,13 @@
 <div align="center">
-  <img height="150" src="https://daochau.com/profile.webp" alt="dao chau" />
+  <svg class="mark" viewBox="0 0 132 64" role="img" aria-label="Goggle mark" height="150">
+    <rect x="0" y="27" width="30" height="11" rx="3" fill="#f3c02c"></rect>
+    <rect x="102" y="27" width="30" height="11" rx="3" fill="#f3c02c"></rect>
+    <circle cx="66" cy="32" r="29" fill="#1d3450"></circle>
+    <circle cx="66" cy="32" r="24" fill="#f7f8fa"></circle>
+    <circle cx="66" cy="32" r="13" fill="#3a5a8c"></circle>
+    <circle cx="66" cy="32" r="6" fill="#161616"></circle>
+    <circle cx="62.5" cy="28.5" r="2.6" fill="#f7f8fa"></circle>
+  </svg>
 </div>
 
 <br/>
@@ -30,7 +38,7 @@
 <h2 align="center">dao chau · backend developer</h2>
 
 <p align="center">
-  PHP, WordPress, WooCommerce — the half of the web you never see.<br/>
+  PHP, WordPress, WooCommerce. the half of the web you never see.<br/>
   working at ViiVue · based in Saigon · powered by cà phê sữa đá
 </p>
 
