@@ -30,7 +30,6 @@
 <h2 align="center">dao chau · backend developer</h2>
 
 <p align="center">
-  PHP, WordPress, WooCommerce. the half of the web you never see.<br/>
   working at ViiVue · based in Saigon · powered by cà phê sữa đá
 </p>
 
