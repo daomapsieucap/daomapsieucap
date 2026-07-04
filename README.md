@@ -63,7 +63,6 @@
 <h3 align="left">stats</h3>
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=daomapsieucap&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=daomapsieucap&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=daomapsieucap&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+  <img src="https://github-stats-extended.vercel.app/api/?username=daomapsieucap&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Dao%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed" height="250" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=daomapsieucap&locale=en&mode=daily&theme=calm&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
