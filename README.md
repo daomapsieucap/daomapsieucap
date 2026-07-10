@@ -62,6 +62,5 @@
 <h3 align="left">stats</h3>
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/?username=daomapsieucap&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Dao%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed" height="250" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=daomapsieucap&locale=en&mode=daily&theme=calm&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+  ![Dao's Stats](./profile/stats.svg)
 </div>
