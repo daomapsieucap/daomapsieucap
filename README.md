@@ -35,9 +35,9 @@
 
 <br/>
 
-<h3 align="left">tools</h3>
+<h3 align="center">tools</h3>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
@@ -59,8 +59,8 @@
 
 <br/>
 
-<h3 align="left">stats</h3>
+<h3 align="center">stats</h3>
 
 <div align="center">
-  ![Dao's Stats](./profile/stats.svg)
+  ![Dao's Stats](/profile/stats.svg)
 </div>
