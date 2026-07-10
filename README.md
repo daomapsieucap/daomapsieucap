@@ -62,5 +62,5 @@
 <h3 align="center">stats</h3>
 
 <div align="center">
-  ![Dao's Stats](/profile/stats.svg)
+  ![Dao's Stats](profile/stats.svg)
 </div>
