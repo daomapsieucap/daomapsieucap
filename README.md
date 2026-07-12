@@ -49,11 +49,10 @@ working at ViiVue · based in Saigon · powered by cà phê sữa đá
 <div align="center">
   <img src="https://img.shields.io/badge/PHP-1d3450?style=for-the-badge&logo=php&logoColor=f3c02c" alt="php" />
   <img src="https://img.shields.io/badge/MySQL-1d3450?style=for-the-badge&logo=mysql&logoColor=f3c02c" alt="mysql" />
+  <img src="https://img.shields.io/badge/Nginx-1d3450?style=for-the-badge&logo=nginx&logoColor=f3c02c" alt="nginx" />
+  <img src="https://img.shields.io/badge/Linux-1d3450?style=for-the-badge&logo=linux&logoColor=f3c02c" alt="linux" />
   <img src="https://img.shields.io/badge/WordPress-1d3450?style=for-the-badge&logo=wordpress&logoColor=f3c02c" alt="wordpress" />
   <img src="https://img.shields.io/badge/WooCommerce-1d3450?style=for-the-badge&logo=woocommerce&logoColor=f3c02c" alt="woocommerce" />
-  <img src="https://img.shields.io/badge/Python-1d3450?style=for-the-badge&logo=python&logoColor=f3c02c" alt="python" />
-  <img src="https://img.shields.io/badge/Linux-1d3450?style=for-the-badge&logo=linux&logoColor=f3c02c" alt="linux" />
-  <img src="https://img.shields.io/badge/Nginx-1d3450?style=for-the-badge&logo=nginx&logoColor=f3c02c" alt="nginx" />
   <img src="https://img.shields.io/badge/PhpStorm-1d3450?style=for-the-badge&logo=phpstorm&logoColor=f3c02c" alt="phpstorm" />
   <img src="https://img.shields.io/badge/Figma-1d3450?style=for-the-badge&logo=figma&logoColor=f3c02c" alt="figma" />
 </div>
